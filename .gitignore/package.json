@@ -1,0 +1,15 @@
+{
+  "name": "cousinbotam",
+  "version": "0.0.1",
+  "description": "Aime les hippos",
+  "main": "index.js",
+  "dependencies": {
+    "node-emoji": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CousinPotam",
+  "license": "ISC"
+}
